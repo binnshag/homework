@@ -69,3 +69,4 @@ for i in letters {
 
 print(letArray)
 
+ 
